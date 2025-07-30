@@ -1,3 +1,4 @@
 # 🎓 Arduino Hands-on Certificate
 
-[![Arduino Certificate](https://github.com/Dupta/certificate/blob/main/Arduino Certificate.png)](https://github.com/Dupta/Certificates/blob/main/Arduino Certificate.png)
+[![Arduino Certificate](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)
+
