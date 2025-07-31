@@ -1,7 +1,7 @@
-# 🎓 Arduino Hands-on Certificate
+# 🎓 Arduino Hands-on
 
-[![Arduino Certificate](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)
+[![Arduino](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/ArduinoCertificate.png)
 
 # 🎓 Graph Camp
 
-[GraphCamp Certificate (PDF)](https://github.com/Dupta/Certificates/blob/main/Graph-Camp.pdf)
+[![GraphCamp By AlgoUniversity](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph.png)
