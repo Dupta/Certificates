@@ -6,6 +6,9 @@
 
 [![GraphCamp By AlgoUniversity](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph.png)
 
-# 🎓 DSA Mastermind -MCQ Elimination Round
+# 🎓 DSA Mastermind- MCQ Elimination Round
 
 [![DSA Mastermind- MCQ Elimination Round](https://raw.githubusercontent.com/Dupta/Certificates/main/First.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/First.png)
+
+# 🎓 DSA Mastermind-Final Coding Round 
+[![DSA Mastermind-Final Coding Round ](https://raw.githubusercontent.com/Dupta/Certificates/main/Second.png)](https://raw.githubusercontent.com/Dupta/Certificates/main/Second.png)
