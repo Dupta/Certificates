@@ -4,5 +4,4 @@
 
 # 🎓 Graph Camp
 
-[![GraphCamp Certificate](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph-Camp.pdf)](https://raw.githubusercontent.com/Dupta/Certificates/main/Graph-Camp.pdf)
-
+[GraphCamp Certificate (PDF)](https://github.com/Dupta/Certificates/blob/main/Graph-Camp.pdf)
